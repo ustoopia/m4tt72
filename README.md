@@ -5,7 +5,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  Ik ben een gepassioneerde <strong>IT professional</strong>, met ervaring in beheer, ondersteuning, ontwerp, ontwikkeling, en implementatie van uiteenlopende technologieën. Ik help graag anderen, los problemen op, en ben ten alle tijden leergierig.
+  Ik ben een gepassioneerde <strong>IT professional</strong>, met ervaring in beheer, ondersteuning, ontwerp, en ontwikkeling van diverse technologieën. Ik ben leergierig, los problemen op, en help graag anderen.
 </p>
 
 ---
