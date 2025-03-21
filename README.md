@@ -14,8 +14,6 @@
 
 Here are some of the technologies and tools I’ve been working with:
 
-
-
 > **Note**: 😄
 
 ---
@@ -40,6 +38,6 @@ Here are some of the technologies and tools I’ve been working with:
 ---
 
 <p align="center">
-  <strong>Bedankt voor je bezoek!</strong><br>
-  <em>“Code is like humor</em>
+  <strong>Bedankt voor je bezoekje!</strong><br>
+  <em>“Have the courage to follow your heart and intuition. They somehow know what you truly want to become.” Steve Jobs</em>
 </p>
