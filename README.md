@@ -7,13 +7,7 @@
   Ik ben een gepassioneerde <strong>IT professional</strong>, met ervaring in beheer, ondersteuning, ontwerp, en ontwikkeling van diverse technologieën. Ik ben leergierig, los problemen op, en help graag anderen.
 </p>
 ---
-### ⚡ Tech & Tools Preference
-
-Here are some of the technologies and tools I’ve been working with:
-
-> **Note**: 😄
----
-### 🚀 What I'm Up To
+### 🚀 What I'm Up To ⚡ 😄
 
 - 🔭 **I’m currently working on:** Full-stack web applications and exploring microservices architecture.
 - 🌱 **I’m currently learning:** Advanced container orchestration, Kubernetes, and cloud infrastructure best practices.
