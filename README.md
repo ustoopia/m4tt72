@@ -16,7 +16,8 @@
   <strong>“Ja weet ik veel!”</strong> <em>-- Is exact wat Andre gisteren zei toen ie het ffkes nie meer wist.</em>
 </p>
 <p align="center">
-  <strong>Bende nou nog steeds hier? Gij durft. Zie eens da ge heul snel weg bent. Anders wor het dalijk tandjes tuffe jonge!!</strong><br>
-  </p>
+  <strong>Bende nou nog steeds hier? Gij durft. Zie eens da ge heul snel weg bent. Anders wor het dalijk tandjes tuffe jonge!!</strong></p>
+  <br>
+<p align="center">Nee, maar ff zonder gein.. Bedankt da ge ffkes menne site bent komen bekijken maat. Houdoe!</p>
   <br>
   <br>
