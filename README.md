@@ -1,6 +1,6 @@
 <!-- Banner or Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=458588&center=true&vCenter=true&width=600&lines=Hallo+daar+joekel!;Gij herdersknaap;Knaaps ventje da ge bent;Zwaren Koekwauws" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=458588&center=true&vCenter=true&width=600&lines=Hallo+daar+joekel!;Gij+herdersknaap;Knaaps+ventje+da+ge+bent;Zware+Koekwauws" alt="Typing SVG" />
 </p>
 <!-- Introduction -->
 <p align="center">
