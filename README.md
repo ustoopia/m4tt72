@@ -4,10 +4,10 @@
 </p>
 <!-- Introduction -->
 <p align="center">
-  Ja jonge wa moete gij nou weer hier? Hedde niks beters te doen dan een bietje online knaapen?\n
+  Ja jonge wa moete gij nou weer hier? Hedde niks beters te doen dan een bietje online knaapen?<br>
   Mechelse herder als ge 'm zo ziet. Kijk 'm dan.. Zoek een hobby of zo. Ga weg man!!
   </p>
-
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ustoopia&show_icons=true&theme=gruvbox" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ustoopia&layout=compact&theme=gruvbox" height="180em" />
