@@ -7,7 +7,7 @@
   Ja jonge wa moete gij nou weer hier? Hedde niks beters te doen dan een bietje online knaapen?<br>
   Mechelse herder als ge 'm zo ziet. Kijk 'm dan.. Zoek een hobby of zo. Ga weg man!!
   </p>
-<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ustoopia&show_icons=true&theme=gruvbox" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ustoopia&layout=compact&theme=gruvbox" height="180em" />
@@ -15,5 +15,6 @@
 <p align="center">
   <strong>Bende nou steeds hier? Zie eens da ge heul snel weg zijt. Anders tandjes tuffe jonge!!</strong><br>
   <br>
-  <em>“Have the courage to follow your heart and intuition. They somehow know what you truly want to become.”</em> -- Steve Jobs.
+  <br>
+  <em>“Ja weet ik veel!”</em> -- Is exact wat Andre gisteren zei toen ie het ffkes nie meer wist.
 </p>
