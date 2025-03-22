@@ -20,4 +20,6 @@
   <br>
 <p align="center">Nee, maar ff zonder gein.. Bedankt da ge ffkes menne site bent komen bekijken maat. Houdoe!</p>
   <br>
-  <br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=458588&center=true&vCenter=true&width=600&lines=Houdoe+en+bedankt;De+groeten+maat!" alt="Typing SVG" />
+</p>
